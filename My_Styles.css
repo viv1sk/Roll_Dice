@@ -1,0 +1,38 @@
+h1 {
+  display: block;
+  text-align: center;
+  text-shadow: 5px 0 #232931;
+}
+
+h4 {
+  color: #4ECCA3;
+  font-family: 'Indie Flower',cursive;
+  font-size: 3rem;
+  margin: 15px auto;
+}
+
+body {
+  background-color: #393E46;
+}
+#heading {
+  color: #4ECCA3;
+  font-family:'Lobster',cursive;
+  font-size: 8rem;
+  margin: 30px;
+}
+/* IDEA: For aligning the dices together */
+.p1{
+  text-align: center;
+}
+.p2{
+  text-align: center;
+}
+
+/* IDEA: Footer Section */
+#footer{
+  color: #fff;
+  font-family:'Indie Flower',cursive;
+  font-size: 1rem;
+  margin-top: 100px;
+  text-align: center;
+}
